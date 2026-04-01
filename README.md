@@ -15,13 +15,6 @@
   <a href="https://www.linkedin.com/in/shake-the-ai-guy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
 </p>
 
-<p>
-  <a href="https://shakedewan.com">Personal Site</a> |
-  <a href="https://aiforward.ca">AI Forward</a> |
-  <a href="https://canadianfunding.ca">Canadian Funding</a> |
-  <a href="https://www.linkedin.com/in/shake-the-ai-guy">LinkedIn</a>
-</p>
-
 </div>
 
 ## Executive Snapshot
