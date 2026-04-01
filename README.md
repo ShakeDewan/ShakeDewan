@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F19,55:123C69,100:2A7FFF&text=Shake%20Dewan&fontColor=F8FAFC&fontSize=56&fontAlignY=38&desc=Founder%20%7C%20Fractional%20Chief%20AI%20Officer%20%7C%20AI%20Strategy%20Operator&descAlignY=60&animation=fadeIn" alt="Shake Dewan banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F19,55:123C69,100:2A7FFF&text=Shake%20Dewan&fontColor=F8FAFC&fontSize=54&fontAlignY=38&desc=Founder%20%7C%20Fractional%20Chief%20AI%20Officer%20%7C%20Builder&descAlignY=60&animation=fadeIn" alt="Shake Dewan banner" />
 
-<h3>Stop playing with AI. Start shipping impact.</h3>
+<h3>AI, strategy, systems, and the people side of making them work.</h3>
 
 <p>
-  I build value-driven AI programs grounded in governance, rigor, and measurable ROI.
+  I like building useful things, translating complexity, and helping teams move from ideas to durable execution.
 </p>
 
 <p>
   <a href="https://github.com/ShakeDewan"><img src="https://img.shields.io/github/followers/ShakeDewan?label=Followers&style=for-the-badge&color=111827&labelColor=374151" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=ShakeDewan&style=for-the-badge&color=2563EB" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/shake-the-ai-guy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+  <a href="https://www.linkedin.com/in/shake-the-ai-guy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
 </p>
 
 <p>
@@ -23,69 +23,46 @@
 
 </div>
 
-## Executive Snapshot
+## About Me
 
-I am an AI executive, founder, and operator who translates technical possibility into business leverage. My work sits at the intersection of AI strategy, systems architecture, executive communication, and commercial execution.
+I’m an AI founder, advisor, and hands-on builder based in Toronto. Over the last few years I’ve worked across consulting, product, education, and executive leadership, usually in situations where technical work and business decisions need to make sense together.
 
-I work best where the stakes are real: when a company needs more than a prototype, when leadership needs a roadmap they can trust, and when delivery teams need systems that actually survive contact with production.
+Some days that looks like architecture and delivery. Some days it looks like helping leadership teams understand what is actually feasible, what is noise, and how to build systems people can trust and maintain.
 
-## Resume Highlights
+## A Few Things I’ve Had The Chance To Do
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <strong>$10M+</strong><br />
-      influenced in new contract value through AI architecture, technical pre-sales, and strategic delivery
-    </td>
-    <td width="25%" align="center">
-      <strong>30+</strong><br />
-      client engagements led across consulting, automation, data products, and AI transformation work
-    </td>
-    <td width="25%" align="center">
-      <strong>20+</strong><br />
-      practitioners scaled inside Deloitte's NLP Center of Excellence
-    </td>
-    <td width="25%" align="center">
-      <strong>50%</strong><br />
-      delivery acceleration achieved through reusable deployment infrastructure
-    </td>
-  </tr>
-</table>
+- Built and scaled AI Forward through 30+ client engagements across AI systems, automations, and advisory work
+- Helped grow Deloitte’s NLP Center of Excellence to 20+ practitioners
+- Contributed to more than $10M in new NLP contract value through architecture and technical pre-sales
+- Architected the data platform at Paperstack during its growth to $10M ARR
+- Built analytics and applied ML systems for organizations including Statistics Canada and PFES
 
-## Platforms I Lead
-
-| Platform | Role | What It Means |
-| --- | --- | --- |
-| [Shake Dewan](https://shakedewan.com) | Personal platform | My home base for case studies, positioning, essays, speaking, and executive track record. |
-| [AI Forward](https://aiforward.ca) | Founder & CEO | Production AI systems, automations, and strategic advisory for serious operators and SMBs. |
-| [Canadian Funding](https://canadianfunding.ca) | CEO | Growth capital, grants, and funding strategy to help companies scale with leverage. |
-
-## What I Actually Do
+## What I Spend Time On
 
 ```text
-Design AI strategy that leadership can act on
-Build production-grade NLP, LLM, and automation systems
-Lead fractional CAIO and CTO mandates
-Bridge executive messaging with technical execution
-Train teams so adoption sticks after delivery
-Connect technology decisions to ROI, speed, and operating leverage
+AI strategy and implementation
+NLP, LLM, and automation systems
+Fractional CAIO and CTO work
+Data platforms and internal tools
+Corporate training and AI education
+Turning technical complexity into clear decisions
 ```
 
-## Selected Wins
+## Where To Find More
 
-- Built and scaled AI Forward from the ground up, securing 30+ client engagements through full-cycle business development and delivery.
-- Led Deloitte's NLP Center of Excellence nationally, scaling the capability to 20+ practitioners in under 18 months.
-- Contributed to more than $10M in new NLP contract value through technical pre-sales, solution architecture, and strategic POV delivery.
-- Architected the end-to-end data platform at Paperstack during expansion to $10M ARR.
-- Presented AI product innovations to Peter Norvig and received direct endorsement.
-- Built public-sector analytics systems for Statistics Canada and applied ML systems using LiDAR and GIS data at PFES.
+| Place | What’s There |
+| --- | --- |
+| [shakedewan.com](https://shakedewan.com) | My main site, writing, case studies, and broader background |
+| [AI Forward](https://aiforward.ca) | The consulting and delivery work |
+| [Canadian Funding](https://canadianfunding.ca) | The capital and growth side of what I’m building |
+| [LinkedIn](https://www.linkedin.com/in/shake-the-ai-guy) | Talks, updates, and professional history |
 
-## Operating Style
+## How I Tend To Work
 
-- Executive-first communication without losing technical depth
-- Commercial discipline over AI theater
-- Strong on ambiguous problems that need both strategy and implementation
-- Hands-on enough to build, senior enough to steer
+- I like work that connects technical depth with real-world usefulness
+- I care a lot about clarity, not just capability
+- I’m interested in systems that are elegant, but also survivable in production
+- I enjoy working with both developers and non-technical operators
 
 ## Toolbox
 
@@ -94,10 +71,10 @@ Connect technology decisions to ROI, speed, and operating leverage
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Core%20Areas-LLMs%20%7C%20NLP%20%7C%20CV%20%7C%20Automation%20%7C%20Data%20Platforms-111827?style=for-the-badge" alt="Core areas badge" />
+  <img src="https://img.shields.io/badge/Focus-LLMs%20%7C%20NLP%20%7C%20Automation%20%7C%20Data%20Platforms-111827?style=for-the-badge" alt="Focus badge" />
 </p>
 
-## GitHub Snapshot
+## GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShakeDewan&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff00&title_color=111827&text_color=334155&icon_color=2563EB" alt="GitHub stats" />
@@ -106,20 +83,6 @@ Connect technology decisions to ROI, speed, and operating leverage
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShakeDewan&theme=github" alt="Profile summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShakeDewan&theme=github&utcOffset=-4" alt="Productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShakeDewan&theme=github" alt="Repos per language" />
-</div>
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShakeDewan/ShakeDewan/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ShakeDewan/ShakeDewan/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ## Background
