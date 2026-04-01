@@ -9,9 +9,10 @@
 </p>
 
 <p>
-  <a href="https://github.com/ShakeDewan"><img src="https://img.shields.io/github/followers/ShakeDewan?label=Followers&style=for-the-badge&color=111827&labelColor=374151" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ShakeDewan&style=for-the-badge&color=2563EB" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/shake-the-ai-guy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+  <a href="https://shakedewan.com"><img src="https://img.shields.io/badge/Personal%20Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal site badge" /></a>
+  <a href="https://aiforward.ca"><img src="https://img.shields.io/badge/AI%20Forward-123C69?style=for-the-badge&logo=sparkfun&logoColor=white" alt="AI Forward badge" /></a>
+  <a href="https://canadianfunding.ca"><img src="https://img.shields.io/badge/Canadian%20Funding-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Canadian Funding badge" /></a>
+  <a href="https://www.linkedin.com/in/shake-the-ai-guy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
 </p>
 
 <p>
