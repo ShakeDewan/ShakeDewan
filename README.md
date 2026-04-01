@@ -140,15 +140,6 @@ Connect technology decisions to ROI, speed, and operating leverage
 - Lean Six Sigma Black Belt
 - Tableau Iron Viz Global Top 10
 
-## Connect
-
-<div align="center">
-  <a href="https://shakedewan.com"><img src="https://img.shields.io/badge/Personal%20Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal site badge" /></a>
-  <a href="https://aiforward.ca"><img src="https://img.shields.io/badge/AI%20Forward-123C69?style=for-the-badge&logo=sparkfun&logoColor=white" alt="AI Forward badge" /></a>
-  <a href="https://canadianfunding.ca"><img src="https://img.shields.io/badge/Canadian%20Funding-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Canadian Funding badge" /></a>
-  <a href="https://www.linkedin.com/in/shake-the-ai-guy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0B0F19,55:123C69,100:2A7FFF" alt="Footer banner" />
 </div>
