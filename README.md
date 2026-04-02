@@ -94,11 +94,6 @@ Connect technology decisions to ROI, speed, and operating leverage
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShakeDewan&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff00&title_color=111827&text_color=334155&icon_color=2563EB" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeDewan&layout=compact&hide_border=true&bg_color=ffffff00&title_color=111827&text_color=334155" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShakeDewan&theme=github" alt="Profile summary" />
 </div>
 
