@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F19,55:123C69,100:2A7FFF&text=Shake%20Dewan&fontColor=F8FAFC&fontSize=56&fontAlignY=38&desc=Founder%20%7C%20Fractional%20Chief%20AI%20Officer%20%7C%20Fractional%CTO&descAlignY=60&animation=fadeIn" alt="Shake Dewan banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F19,55:123C69,100:2A7FFF&text=Shake%20Dewan&fontColor=F8FAFC&fontSize=56&fontAlignY=38&desc=Founder%20%7C%20Fractional%20Chief%20AI%20Officer%20%7C%20Fractional%20CTO&descAlignY=60&animation=fadeIn" alt="Shake Dewan banner" />
 
 <h3>Stop playing with AI. Start shipping impact.</h3>
 
